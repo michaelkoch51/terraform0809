@@ -3,7 +3,8 @@
 ### Задание 1
 Проект успешно инициализирован, конфигурация применена. 
 Входящие правила «Группы безопасности» в ЛК Yandex Cloud:
-![Группа безопасности](./img/security_group.png) *(замени путь на свой скриншот)*
+![Группа безопасности](<img width="1420" height="304" alt="Снимок экрана 2026-09-08 в 11 47 26" src="https://github.com/user-attachments/assets/ef70d1c1-5b28-4e19-9cec-57571a559af3" />
+)
 
 ---
 
@@ -26,14 +27,14 @@
 2. Инвентарь динамически обрабатывает группы хостов (`[webservers]`, `[databases]`, `[storage]`) и включает переменную `fqdn`.
 
 Результат генерации файла `hosts`:
-![Ansible Hosts](./img/hosts_file.png) *(замени путь на свой скриншот)*
+![Ansible Hosts](https://github.com/user-attachments/assets/a9ecfeda-7001-4d8b-a892-ee778bba8f8f)
 
 ---
 
 ### Задание 5* (необязательное)
 Написан итеративный блок `output "vm_list"`, который собирает ВМ из ресурсов `count` и `for_each` в плоский список словарей.
 Вывод команды `terraform output`:
-![Terraform Output](./img/terraform_output.png) *(замени путь на свой скриншот)*
+![Terraform Output](https://github.com/user-attachments/assets/eb732e8a-6414-453b-93ac-0b91b8e506d5)
 
 ---
 
