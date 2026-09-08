@@ -3,8 +3,7 @@
 ### Задание 1
 Проект успешно инициализирован, конфигурация применена. 
 Входящие правила «Группы безопасности» в ЛК Yandex Cloud:
-![Группа безопасности](<img width="1420" height="304" alt="Снимок экрана 2026-09-08 в 11 47 26" src="https://github.com/user-attachments/assets/ef70d1c1-5b28-4e19-9cec-57571a559af3" />
-)
+![Группа безопасности](https://github.com/user-attachments/assets/ef70d1c1-5b28-4e19-9cec-57571a559af3)
 
 ---
 
